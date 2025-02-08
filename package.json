@@ -1,20 +1,23 @@
 {
-    "name": "com.codelibrary24.flycam",
-    "version": "1.0.0",
-    "displayName": "Fly Cam",
-    "description": "A simple fly cam",
-    "unity": "2022.1",
-    "documentationUrl": "https://ambargames.com/",
-    "changelogUrl": "https://ambargames.com/changelog.html",
-    "licensesUrl": "https://ambargames/licensing.html",
-    "keywords": [
-        "Camera",
-        "Fly",
-        "Flycam"
-    ],
-    "author": {
-        "name": "CircusCharlie",
-        "email": "circuscharlie2428@gmail.com",
-        "url": "https://www.ambargames.com"
-    }
+  "name": "com.codelibrary24.flycam",
+  "version": "1.0.0",
+  "displayName": "Fly Cam",
+  "description": "A simple fly cam",
+  "unity": "2022.1",
+  "documentationUrl": "https://ambargames.com/",
+  "changelogUrl": "https://ambargames.com/changelog.html",
+  "licensesUrl": "https://ambargames/licensing.html",
+  "keywords": [
+    "Camera",
+    "Fly",
+    "Flycam"
+  ],
+  "author": {
+    "name": "CircusCharlie",
+    "email": "circuscharlie2428@gmail.com",
+    "url": "https://www.ambargames.com"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.11.2"
+  }
 }
