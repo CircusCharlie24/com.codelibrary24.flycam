@@ -1,16 +1,16 @@
 {
-    "name": "com.codelibrary24.custompackagetemplate",
+    "name": "com.codelibrary24.flycam",
     "version": "1.0.0",
-    "displayName": "Custom Package Template",
-    "description": "This is an template for making custom packages",
+    "displayName": "Fly Cam",
+    "description": "A simple fly cam",
     "unity": "2022.1",
     "documentationUrl": "https://ambargames.com/",
     "changelogUrl": "https://ambargames.com/changelog.html",
     "licensesUrl": "https://ambargames/licensing.html",
     "keywords": [
-        "Custom",
-        "Package",
-        "Template"
+        "Camera",
+        "Fly",
+        "Flycam"
     ],
     "author": {
         "name": "CircusCharlie",
