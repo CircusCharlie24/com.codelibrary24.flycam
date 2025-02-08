@@ -360,8 +360,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 807b4c5027ea635498ee029853a26587, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 5
-  fastMovementSpeed: 15
+  movementSpeed: 300
+  fastMovementSpeed: 400
   mouseSensitivity: 0.2
   rotationSmoothTime: 0.12
   movementSmoothTime: 0.1
+  lockCursor: 1
